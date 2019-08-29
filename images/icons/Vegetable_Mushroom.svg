@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 15.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 width="96px" height="96px" viewBox="0 0 96 96" enable-background="new 0 0 96 96" xml:space="preserve">
+<g>
+	<g>
+		
+			<path fill="none" stroke="#FFFFFF" stroke-width="4.5" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" d="
+			M38.593,45.751c0-5.372-4.34-9.729-9.692-9.729c-5.357,0-9.695,4.357-9.695,9.729"/>
+		
+			<path fill="none" stroke="#FFFFFF" stroke-width="4.5" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" d="
+			M76.797,45.751c0-5.372-4.338-9.729-9.693-9.729c-5.354,0-9.695,4.357-9.695,9.729"/>
+	</g>
+	
+		<line fill="none" stroke="#FFFFFF" stroke-width="4.5" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" x1="25.801" y1="83.232" x2="38.593" y2="45.751"/>
+	
+		<line fill="none" stroke="#FFFFFF" stroke-width="4.5" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" x1="64.849" y1="91" x2="31.158" y2="91"/>
+	
+		<line fill="none" stroke="#FFFFFF" stroke-width="4.5" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" x1="57.408" y1="45.751" x2="70.206" y2="83.232"/>
+	<path fill="none" stroke="#FFFFFF" stroke-width="4.5" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" d="
+		M57.408,45.751h31.203C88.611,23.246,70.429,5,48.002,5C25.572,5,7.389,23.246,7.389,45.751h31.204"/>
+	<path fill="none" stroke="#FFFFFF" stroke-width="4.5" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" d="
+		M31.158,91c-3.16,0-5.724-2.569-5.724-5.742c0-0.713,0.131-1.396,0.366-2.025"/>
+	<path fill="none" stroke="#FFFFFF" stroke-width="4.5" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" d="
+		M64.849,91c3.161,0,5.723-2.569,5.723-5.742c0-0.713-0.129-1.396-0.365-2.025"/>
+</g>
+</svg>
