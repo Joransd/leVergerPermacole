@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="80px" height="91px" viewBox="0 0 80 91" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 43.2 (39069) - http://www.bohemiancoding.com/sketch -->
+    <title>Polygon</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="seedsStock" transform="translate(-1282.000000, -68.000000)" fill="#FFD967">
+            <path d="M1318.53764,68.9989959 C1320.44985,67.894981 1323.54354,67.891162 1325.46236,68.9989959 L1358.53764,88.0950149 C1360.44985,89.1990298 1362,91.8763348 1362,94.0920026 L1362,132.28404 C1362,134.49207 1360.45646,137.173194 1358.53764,138.281028 L1325.46236,157.377047 C1323.55015,158.481062 1320.45646,158.484881 1318.53764,157.377047 L1285.46236,138.281028 C1283.55015,137.177013 1282,134.499708 1282,132.28404 L1282,94.0920026 C1282,91.8839727 1283.54354,89.2028487 1285.46236,88.0950149 L1318.53764,68.9989959 Z" id="Polygon"></path>
+        </g>
+    </g>
+</svg>

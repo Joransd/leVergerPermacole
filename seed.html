@@ -1,0 +1,72 @@
+<!doctype html>
+<html lang="fr">
+	<head>
+		<meta charset="utf-8">
+		<meta name="google-site-verification" content="rG4wnHmXFVaK_aHlxQ_wUlJFrIAMnEDeM56PlGDY4Ic" />
+        <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+        
+		<title>Le Verger Permacole</title>
+		
+        <!-- Bootstrap CSS -->
+        <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css" integrity="sha384- Gn5384xqQ1aoWXA+058RXPxPg6fy4IWvTNh0E263XmFcJlSAwiGgFAW/dAiS6JXm" crossorigin="anonymous">
+        <!-- jQuery first, then Popper.js, then Bootstrap JS -->
+        <script src="https://code.jquery.com/jquery-3.2.1.slim.min.js" integrity="sha384-KJ3o2DKtIkvYIK3UENzmM7KCkRr/rE9/Qpg6aAZGJwFDMVNA/GpGFF93hXpG5KkN" crossorigin="anonymous"></script>
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.12.9/umd/popper.min.js" integrity="sha384-ApNbgh9B+Y1QKtv3Rn7W3mgPxhU9K/ScQsAP7hUibX39j7fakFPskvXusvfa0b4Q" crossorigin="anonymous"></script>
+        <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/js/bootstrap.min.js" integrity="sha384-JZR6Spejh4U02d8jOt6vLEHfe/JQGiRRSQQxSfFWpi1MquVdAyjUar5+76PVCmYl" crossorigin="anonymous"></script>
+        
+        <link rel="stylesheet" href="../leVergerPermacole/css/animates.css">
+		<link rel="stylesheet" href="../leVergerPermacole/css/styles.css">
+        
+        <link href="https://fonts.googleapis.com/css?family=Roboto:100,300,400,500&display=swap" rel="stylesheet"> 
+        <link href="https://fonts.googleapis.com/css?family=Roboto+Slab:700&display=swap" rel="stylesheet"> 
+        <link href="https://fonts.googleapis.com/css?family=Roboto+Condensed:300,700&display=swap" rel="stylesheet">
+        
+        <script src="../leVergerPermacole/js/function.js"></script>
+	</head>
+	<body class="bodySeed bodyPage">
+		<header class="header">
+            <img class="animated fadeIn" src="images/logoPage.svg" alt="Le Verger Permacole" />
+            <a class="menuButton animated rollIn" href="index.html">
+               <img src="images/menuButton.svg" alt="" /> 
+            </a>
+		</header>
+		<section class="pageContainer animated fadeIn">
+            <h1>Graines <br>en stock</h1>
+            <div class="monthCalendar">
+                <span>J</span><span>F</span><span>M</span><span>A</span><span>M</span><span>J</span><span>J</span><span>A</span><span>S</span><span>O</span><span>N</span><span>D</span>
+            </div>
+            <div class="organicList" id="accordion">
+              <div>
+                <div id="headingOne">
+                  <h2>
+                    <button class="familyTitle" data-toggle="collapse" data-target="#collapseOne" aria-expanded="true" aria-controls="collapseOne">
+                      Solanacées
+                    </button>
+                  </h2>
+                </div>
+                <div id="collapseOne" class="collapse show" aria-labelledby="headingOne" data-parent="#accordion">
+                    
+                    <html-include src="solanacee.html"></html-include>
+                    
+                </div>
+              </div>
+              <div>
+                <div id="headingTwo">
+                  <h2>
+                    <button class="familyTitle collapsed" data-toggle="collapse" data-target="#collapseTwo" aria-expanded="false" aria-controls="collapseTwo">
+                      Alliacées
+                    </button>
+                  </h2>
+                </div>
+                <div id="collapseTwo" class="collapse" aria-labelledby="headingTwo" data-parent="#accordion">
+                  <div class="card-body">
+                  </div>
+                </div>
+              </div>
+            </div>
+		</section>
+        <div data-include="solanacee.html"> </div>
+        <p class="signature">© 2019 Copyright Joran Saladin</p>
+	</body>    
+</html>
